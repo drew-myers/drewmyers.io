@@ -55,7 +55,7 @@
 **/.env
 
 # gatsby files
-**//.cache/
+**/.cache/
 **/public
 
 # Mac files

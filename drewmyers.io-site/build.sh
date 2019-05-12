@@ -1,4 +1,4 @@
-rm -rf public docs
+rm -rf .cache public ../docs
 gatsby build --prefix-paths
-mv public docs
+mv public ../docs
 rm -rf public

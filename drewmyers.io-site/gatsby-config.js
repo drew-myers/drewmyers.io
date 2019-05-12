@@ -1,6 +1,7 @@
 const path = require(`path`);
 
 module.exports = {
+  // pathPrefix: `/drew-myers/drewmyers.io`,
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

@@ -13,6 +13,7 @@
   "dependencies": {
     "gatsby": "^2.4.0",
     "gatsby-image": "^2.0.41",
+    "gatsby-plugin-react-helmet": "^3.1.2",
     "gatsby-plugin-sharp": "^2.0.36",
     "gatsby-plugin-typography": "^2.2.13",
     "gatsby-source-filesystem": "^2.0.33",
@@ -20,6 +21,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-headroom": "^2.2.8",
+    "react-helmet": "^5.2.1",
     "react-typography": "^0.16.19",
     "typography": "^0.16.19",
     "typography-theme-fairy-gates": "^0.16.19"
